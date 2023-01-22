@@ -1,3 +1,3 @@
 print("hello ineuron")
-print("zooma linre")
+print("zooma new")
 print("new")
