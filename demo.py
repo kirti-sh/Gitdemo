@@ -1,2 +1,2 @@
 print("hello ineuron")
-print("next")
+print("next linre")
